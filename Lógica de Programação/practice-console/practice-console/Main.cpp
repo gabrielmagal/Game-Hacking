@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hellow world3" << endl;
+	cout << "Hellow world!" << endl;
 	getchar();
 	return true;
 }
