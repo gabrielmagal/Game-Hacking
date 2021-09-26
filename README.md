@@ -1,5 +1,5 @@
 # **_Categorias_**
-- [X] - Lógica de Programação
+- [ ] - Lógica de Programação
 - [ ] - Engenharia Reversa
 - [ ] - Programação (C++, C#, Assembly)
 - [ ] - Packers
